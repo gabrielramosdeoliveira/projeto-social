@@ -31,8 +31,8 @@ section#iphone {
     background: url(../imagens/frame-iphone.png);
     background-size:  100% 100%;
     position: absolute;
-    height: 627px;
-    width: 311px;
+    height: 39.1em;
+    width: 19.5em;
     left: 50%;
     top: 50%;
 
@@ -40,8 +40,8 @@ section#iphone {
 }
 
 iframe {
-    height: 472px;
-    width: 269px;
+    height: 29.5em;
+    width: 16.9em;
     position: relative;
     left: 21px;
     top: 80px;
@@ -52,8 +52,8 @@ section#botões {
 }
 
 section#botões img {
-    height: 50px;
-    width: 50px;
+    height: 3.5em;
+    width: 3.5em;
     margin: 10px;
     border-radius: 50%;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.400);
@@ -61,7 +61,7 @@ section#botões img {
 }
 
 section#botões img:hover {
-    border: 2px solid rgba(255, 255, 255, 0.623);
+    border: 2px solid rgba(55, 27, 134, 0.623);
     transform: translate(-3px, -3px);
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.61);
     transition: 0.3s;
